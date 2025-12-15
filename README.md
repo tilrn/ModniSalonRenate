@@ -2,6 +2,10 @@
 
 A beautiful, storytelling-based website for a boutique tailor, showcasing the journey of custom-made garments with visual steps and client testimonials.
 
+
+https://github.com/user-attachments/assets/5c3250aa-4487-4bdb-8e50-7ca9c48ff8c5
+
+
 ## Features
 
 ### 🎨 Design & User Experience
